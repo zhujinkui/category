@@ -6,7 +6,7 @@
 ![Image text](http://images.22058.com/github/tp5-category/category_1.jpg)
 
 ## 安装
-> composer require zhujinkui/tp5-page
+> composer require zhujinkui/tp5-category
 
 ## 代码举例使用
 > 建立Node控制器,读取节点列表
