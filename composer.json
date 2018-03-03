@@ -1,0 +1,14 @@
+{
+    "name": "zhujinkui/tp5-category",
+    "description": "This is an infinite Classification Library Based on the ThinkPHP5 framework",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zhujinkui",
+            "email": "developer@zhujinkui.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
